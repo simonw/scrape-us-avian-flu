@@ -17,9 +17,9 @@ jobs:
     - name: Fetch latest data
       run: |-
         # https://www.cdc.gov/flu/avianflu/data-map-wild-birds.html
-        wget https://www.aphis.usda.gov/animal_health/data-csv/hpai-wild-birds.csv
+        wget https://www.aphis.usda.gov/animal_health/data-csv/hpai-wild-birds.csv -O hpai-wild-birds.csv
         # https://www.cdc.gov/flu/avianflu/data-map-commercial.html
-        wget https://www.cdc.gov/flu/avianflu/modules/commercial-backyard-flocks.csv
+        wget https://www.cdc.gov/flu/avianflu/modules/commercial-backyard-flocks.csv -O commercial-backyard-flocks.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
