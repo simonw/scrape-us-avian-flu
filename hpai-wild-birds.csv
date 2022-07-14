@@ -1453,21 +1453,21 @@ Oregon,Lane,5/19/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish a
 Minnesota,Cass,6/7/2022,EA H5N1,Wood duck,Live bird NWDP
 Minnesota,Cass,6/7/2022,EA H5N1,Wood duck,Live bird NWDP
 Minnesota,Cook,6/2/2022,EA H5N1,Bald eagle,Wild bird mortality NWDP
-District of Columbia,District of Columbia,6/3/2022,EA H5N1,Mallard,Wild bird mortality NPS/USGS (33)
+District of Columbia,District of Columbia,6/3/2022,EA/AM H5N1,Mallard,Wild bird mortality NPS/USGS (33)
 District of Columbia,District of Columbia,6/3/2022,EA H5N1,Mallard,Wild bird mortality NPS/USGS (33)
 Wisconsin,Door,6/9/2022,EA H5N1,Bald eagle,Wild bird mortality NWDP
 Wisconsin,Dodge,6/10/2022,EA H5N1,American white pelican,Wild bird mortality USGS/FWS (2)
 Wisconsin,Dodge,6/10/2022,EA H5N1,Double-crested cormorant,Wild bird mortality USGS/FWS (2)
-Wisconsin,Door,6/10/2022,EA H5N1,Caspian tern,Wild bird mortality USGS/FWS (2)
+Wisconsin,Door,6/10/2022,EA/AM H5N1,Caspian tern,Wild bird mortality USGS/FWS (2)
 New Jersey,Monmouth,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Alaska,Aleutians West,5/20/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
 New Jersey,Monmouth,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 New Jersey,Monmouth,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
-Arizona,Maricopa,6/7/2022,EA H5N1,Neotropic cormorant,Wild bird mortality AZ GFD/USGS
+Arizona,Maricopa,6/7/2022,EA/AM H5N1,Neotropic cormorant,Wild bird mortality AZ GFD/USGS
 New Jersey,Salem,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 New Jersey,Salem,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
-Illinois,McLean,6/3/2022,EA H5N1,Canada goose,Wild bird mortality IL DNR/USGS
-Illinois,McLean,6/3/2022,EA H5N1,Canada goose,Wild bird mortality IL DNR/USGS
+Illinois,McLean,6/3/2022,EA/AM H5N1,Canada goose,Wild bird mortality IL DNR/USGS
+Illinois,McLean,6/3/2022,EA/AM H5N1,Canada goose,Wild bird mortality IL DNR/USGS
 New Jersey,Salem,5/31/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Vermont,Bennington,6/3/2022,EA H5N1,Red-tailed hawk,Wild bird mortality NWDP
 Alaska,Anchorage,5/20/2022,EA H5N1,Canada goose,Wild bird mortality USFWS/ADFG
@@ -1521,9 +1521,9 @@ Washington,King,6/2/2022,EA H5N1,Mallard,Wild bird mortality WA Dept of Fish and
 Washington,King,6/2/2022,EA H5N1,Mallard,Wild bird mortality WA Dept of Fish and Wildlife
 Washington,King,6/2/2022,EA H5N1,Mallard,Wild bird mortality WA Dept of Fish and Wildlife
 Washington,King,6/2/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
-Washington,Benton,6/8/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
-Washington,Benton,6/8/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
-Washington,Benton,6/8/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Benton,6/8/2022,EA/AM H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Benton,6/8/2022,EA/AM H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Benton,6/8/2022,EA/AM H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
 Iowa,Allamakee,4/6/2022,EA H5N1,Bald eagle,Wild bird mortality IA DNR
 Iowa,Linn,4/12/2022,EA/AM H5N1,Great horned owl,Wild bird mortality IA DNR
 Iowa,Linn,4/12/2022,EA/AM H5N1,Great horned owl,Wild bird mortality IA DNR
@@ -1548,44 +1548,44 @@ Utah,Cache,5/10/2022,EA H5N1,Owl (unidentified),Wild bird mortality Utah DWR
 Utah,Weber,5/13/2022,EA/AM H5N1,Great horned owl,Wild bird mortality Utah DWR
 Utah,Cache,5/13/2022,EA/AM H5N1,Great horned owl,Wild bird mortality Utah DWR
 Utah,Weber,5/13/2022,EA/AM H5N1,Goose (unidentified),Wild bird mortality Utah DWR
-Illinois,Cook,6/3/2022,EA H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
-Illinois,Cook,6/3/2022,EA H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
-Illinois,Cook,6/3/2022,EA H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
-Wisconsin,Door,6/3/2022,EA H5N1,Herring gull,Wild bird mortality WI DNR/USGS
-Wisconsin,Door,6/3/2022,EA H5N1,Herring gull,Wild bird mortality WI DNR/USGS
-Wisconsin,Door,6/3/2022,EA H5N1,Caspian tern,Wild bird mortality WI DNR/USGS
-Wisconsin,Door,6/3/2022,EA H5N1,Caspian tern,Wild bird mortality WI DNR/USGS
+Illinois,Cook,6/3/2022,EA/AM H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
+Illinois,Cook,6/3/2022,EA/AM H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
+Illinois,Cook,6/3/2022,EA/AM H5N1,Double-crested cormorant,Wild bird mortality IL DNR/USGS
+Wisconsin,Door,6/3/2022,EA/AM H5N1,Herring gull,Wild bird mortality WI DNR/USGS
+Wisconsin,Door,6/3/2022,EA/AM H5N1,Herring gull,Wild bird mortality WI DNR/USGS
+Wisconsin,Door,6/3/2022,EA/AM H5N1,Caspian tern,Wild bird mortality WI DNR/USGS
+Wisconsin,Door,6/3/2022,EA/AM H5N1,Caspian tern,Wild bird mortality WI DNR/USGS
+Wisconsin,Door,6/3/2022,EA/AM H5N1,Double-crested cormorant,Wild bird mortality WI DNR/USGS
 Wisconsin,Door,6/3/2022,EA H5N1,Double-crested cormorant,Wild bird mortality WI DNR/USGS
-Wisconsin,Door,6/3/2022,EA H5N1,Double-crested cormorant,Wild bird mortality WI DNR/USGS
-Michigan,Mackinac,6/8/2022,EA H5N1,Herring gull,Wild bird mortality Michigan DNR
+Michigan,Mackinac,6/8/2022,EA/AM H5N1,Herring gull,Wild bird mortality Michigan DNR
 Michigan,Mackinac,6/8/2022,EA H5N1,Herring gull,Wild bird mortality Michigan DNR
 Michigan,Grand Traverse,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Manistee,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Mason,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Manistee,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Mason,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Iosco,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Ogemaw,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Roscommon,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
 Michigan,Iosco,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Ogemaw,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Roscommon,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Iosco,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Mason,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Otsego,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Osceola,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Charlevoix,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Mason,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Otsego,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Osceola,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Charlevoix,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
 Michigan,Missaukee,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Roscommon,6/8/2022,EA H5N1,Snowy owl,Wild bird mortality Michigan DNR
-Michigan,Roscommon,6/8/2022,EA H5N1,Gadwall,Wild bird mortality Michigan DNR
+Michigan,Roscommon,6/8/2022,EA/AM H5N1,Snowy owl,Wild bird mortality Michigan DNR
+Michigan,Roscommon,6/8/2022,EA/AM H5N1,Gadwall,Wild bird mortality Michigan DNR
 Michigan,Alpena,6/8/2022,EA H5N1,Red-winged blackbird,Wild bird mortality Michigan DNR
 Michigan,Missaukee,6/8/2022,EA H5N1,Barred owl,Wild bird mortality Michigan DNR
 Michigan,Charlevoix,6/8/2022,EA H5N1,Mallard,Wild bird mortality Michigan DNR
-Michigan,Grand Traverse,6/8/2022,EA H5N1,Red-tailed hawk,Wild bird mortality Michigan DNR
-Michigan,Grand Traverse,6/8/2022,EA H5N1,Redhead duck,Wild bird mortality Michigan DNR
-Michigan,Huron,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Macomb,6/8/2022,EA H5N1,Peregrine falcon,Wild bird mortality Michigan DNR
-Michigan,Kalamazoo,6/8/2022,EA H5N1,Red-tailed hawk,Wild bird mortality Michigan DNR
+Michigan,Grand Traverse,6/8/2022,EA/AM H5N1,Red-tailed hawk,Wild bird mortality Michigan DNR
+Michigan,Grand Traverse,6/8/2022,EA/AM H5N1,Redhead duck,Wild bird mortality Michigan DNR
+Michigan,Huron,6/8/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Macomb,6/8/2022,EA/AM H5N1,Peregrine falcon,Wild bird mortality Michigan DNR
+Michigan,Kalamazoo,6/8/2022,EA/AM H5N1,Red-tailed hawk,Wild bird mortality Michigan DNR
 Pennsylvania,Dauphin,6/14/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Pennsylvania,Dauphin,6/14/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Pennsylvania,Dauphin,6/14/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Pennsylvania,Dauphin,6/14/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
-Wyoming,Teton,6/10/2022,EA H5N1,Red-tailed hawk,Wild bird mortality WY Game and Fish Department
+Wyoming,Teton,6/10/2022,EA/AM H5N1,Red-tailed hawk,Wild bird mortality WY Game and Fish Department
 Wisconsin,Winnebago,5/6/2022,EA/AM H5N1,American white pelican,Wild bird mortality WI DNR/USGS (20)
 Alaska,Anchorage,6/8/2022,EA H5N1,Snow goose,Wild bird mortality USFWS/ADFG
 Wyoming,Sublette,6/10/2022,EA H5N1,Eared grebe,Wild bird mortality WY Game and Fish Department
@@ -1595,9 +1595,9 @@ Michigan,Eaton,6/9/2022,EA H5N1,Red-tailed hawk,Wild bird mortality Michigan DNR
 Michigan,Eaton,6/9/2022,EA H5N1,American crow,Wild bird mortality Michigan DNR
 Michigan,Ontonagon,6/9/2022,EA H5N1,American white pelican,Wild bird mortality Michigan DNR
 Michigan,Gogebic,6/9/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Alaska,Valdez-Cordova,6/8/2022,EA H5N1,Brant,Wild bird mortality USFWS/ADFG
-Alaska,Aleutians West,6/10/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
-Florida,Brevard,6/7/2022,EA H5N1,Black vulture,Wild bird mortality 
+Alaska,Valdez-Cordova,6/8/2022,EA/AM H5N1,Brant,Wild bird mortality USFWS/ADFG
+Alaska,Aleutians West,6/10/2022,EA/AM H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
+Florida,Brevard,6/7/2022,EA/AM H5N1,Black vulture,Wild bird mortality 
 Florida,Seminole,6/7/2022,EA H5N1,Muscovy duck,Wild bird mortality FFWCC
 Florida,Brevard,6/2/2022,EA H5N1,Black vulture,Wild bird mortality 
 Oregon,Lane,6/2/2022,EA H5N1,Turkey vulture,Wild bird mortality OR Dept of Fish and Wildlife
@@ -1617,7 +1617,7 @@ Minnesota,Wright,6/15/2022,EA H5N1,American white pelican,Wild bird mortality NW
 Minnesota,Wright,6/15/2022,EA H5N1,Double-crested cormorant,Wild bird mortality NWDP
 Maryland,Howard,5/27/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
 Maryland,Howard,5/27/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
-Oregon,Marion,6/21/2022,EA H5N1,Mallard,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Marion,6/21/2022,EA/AM H5N1,Mallard,Wild bird mortality OR Dept of Fish and Wildlife
 Indiana,Miami,4/21/2022,EA H5N1,Bald eagle,Wild bird mortality IN DNR
 Indiana,Johnson,4/21/2022,EA/AM H5N1,Red-tailed hawk,Wild bird mortality IN DNR
 Indiana,Newton,5/2/2022,EA H5,Canada goose,Wild bird mortality IN DNR
@@ -1628,7 +1628,7 @@ Idaho,Ada,5/19/2022,EA H5N1,Canada goose,Wild bird mortality IDFG
 Idaho,Ada,5/19/2022,EA H5N1,Great horned owl,Wild bird mortality IDFG
 Idaho,Ada,5/19/2022,EA H5N1,Canada goose,Wild bird mortality IDFG
 Idaho,Ada,5/19/2022,EA H5N1,Western screech owl,Wild bird mortality IDFG
-Minnesota,Nicollet,6/10/2022,EA H5N1,American white pelican,Wild bird mortality MN DNR
+Minnesota,Nicollet,6/10/2022,EA/AM H5N1,American white pelican,Wild bird mortality MN DNR
 Indiana,Starke,4/14/2022,EA/AM H5N1,Bald eagle,Wild bird mortality IN DNR
 Indiana,Johnson,5/11/2022,EA/AM H5N1,Great horned owl,Wild bird mortality IN DNR
 Indiana,Allen,5/31/2022,EA H5N1,Red-tailed hawk,Wild bird mortality IN DNR
@@ -1650,7 +1650,7 @@ Michigan,Baraga,6/24/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
 Michigan,Delta,6/24/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
 Michigan,Muskegon,6/24/2022,EA H5N1,Double-crested cormorant,Wild bird mortality Michigan DNR
 Alaska,Matanuska-Susitna,5/17/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
-Alaska,Sitka AK,5/20/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
+Alaska,Sitka,5/20/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
 Alaska,Valdez-Cordova,6/15/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
 Alaska,Kusilvak,6/14/2022,EA H5N1,Brant,Wild bird mortality USFWS/ADFG
 Alaska,Bethel,6/14/2022,EA H5N1,Brant,Wild bird mortality USFWS/ADFG
@@ -1664,9 +1664,9 @@ Alaska,Bethel,6/14/2022,EA H5N1,Glaucous gull,Wild bird mortality USFWS/ADFG
 Alaska,Aleutians East,6/14/2022,EA H5N1,Brant,Wild bird mortality USFWS/ADFG
 Alaska,Aleutians East,6/14/2022,EA H5N1,Glaucous gull,Wild bird mortality USFWS/ADFG
 Alaska,Matanuska-Susitna,6/15/2022,EA/AM H5N1,Red-Necked Grebe,Wild bird mortality USFWS/ADFG
-Alaska,Matanuska-Susitna,6/17/2022,EA H5N1,Mallard,Wild bird mortality USFWS/ADFG
-Alaska,Chugach,6/17/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
-Alaska,Matanuska,6/17/2022,EA H5N1,Mallard,Wild bird mortality USFWS/ADFG
+Alaska,Matanuska-Susitna,6/17/2022,EA/AM H5N1,Mallard,Wild bird mortality USFWS/ADFG
+Alaska,Chugach,6/17/2022,EA/AM H5N1,Bald eagle,Wild bird mortality USFWS/ADFG
+Alaska,Matanuska-Susitna,6/17/2022,EA/AM H5N1,Mallard,Wild bird mortality USFWS/ADFG
 Alaska,Anchorage,6/24/2022,EA H5N1,Short-Billed Gull,Wild bird mortality USFWS/ADFG
 Alaska,Kusilvak,6/24/2022,EA H5N1,Sandhill crane,Wild bird mortality USFWS/ADFG
 Alaska,Bethel,6/24/2022,EA H5N1,Common raven,Wild bird mortality USFWS/ADFG
@@ -1684,10 +1684,10 @@ Florida,Orange,5/23/2022,EA/AM H5N1,Black vulture,Wild bird mortality
 Florida,Orange,5/25/2022,EA/AM H5N1,Black vulture,Wild bird mortality
 Florida,Orange,5/25/2022,EA/AM H5N1,Black vulture,Wild bird mortality
 Florida,Orange,6/14/2022,EA/AM H5N1,Black vulture,Wild bird mortality
-Florida,Orange,6/21/2022,EA H5N1,Black vulture,Wild bird mortality
-Florida,Brevard,6/21/2022,EA H5N1,American wood stork,Wild bird mortality FFWCC
-Florida,Brevard,6/22/2022,EA H5N1,Black vulture,Wild bird mortality
-Florida,Palm Beach,6/22/2022,EA H5N1,Heron (unidentified),Wild bird mortality
+Florida,Orange,6/21/2022,EA/AM H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,6/21/2022,EA/AM H5N1,American wood stork,Wild bird mortality FFWCC
+Florida,Brevard,6/22/2022,EA/AM H5N1,Black vulture,Wild bird mortality
+Florida,Palm Beach,6/22/2022,EA/AM H5N1,Heron (unidentified),Wild bird mortality
 Florida,Brevard,6/28/2022,EA H5N1,Black vulture,Wild bird mortality
 Florida,Brevard,6/28/2022,EA H5N1,Black vulture,Wild bird mortality
 Florida,Brevard,6/28/2022,EA H5N1,Black vulture,Wild bird mortality
@@ -1711,7 +1711,7 @@ New York,Suffolk,6/2/2022,EA H5N1,Gull (unidentified),Wild bird mortality NYSDEC
 Idaho,Ada,6/8/2022,EA H5N1,Canada goose,Wild bird mortality IDFG
 Idaho,Ada,6/8/2022,EA/AM H5N1,Canada goose,Wild bird mortality IDFG
 Idaho,Ada,6/10/2022,EA/AM H5N1,Harris hawk,Wild bird mortality IDFG
-Idaho,Ada,6/22/2022,EA H5N1,Canada goose,Wild bird mortality IDFG
+Idaho,Ada,6/22/2022,EA/AM H5N1,Canada goose,Wild bird mortality IDFG
 New York,Chautauqua,6/8/2022,EA H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
 New York,Saratoga,6/9/2022,EA H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
 New York,Orange,6/9/2022,EA/AM H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
@@ -1720,7 +1720,7 @@ New York,Jefferson,6/10/2022,EA H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
 New York,Franklin,6/10/2022,EA/AM H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
 New York,Seneca,5/12/2022,EA H5N1,Red-tailed hawk,Wild bird mortality NYSDEC (6)
 New York,Clinton,5/12/2022,EA/AM H5N1,Bald eagle,Wild bird mortality NYSDEC (6)
-New York,Livingston,6/21/2022,EA H5N1,Turkey vulture,Wild bird mortality NYSDEC (6)
+New York,Livingston,6/21/2022,EA/AM H5N1,Turkey vulture,Wild bird mortality NYSDEC (6)
 New York,St. Lawrence,6/29/2022,EA H5N1,Turkey vulture,Wild bird mortality NYSDEC (6)
 New York,St. Lawrence,6/29/2022,EA H5N1,Turkey vulture,Wild bird mortality NYSDEC (6)
 New York,St. Lawrence,6/29/2022,EA H5N1,Turkey vulture,Wild bird mortality NYSDEC (6)
@@ -1729,13 +1729,13 @@ Oregon,Lane,5/23/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish a
 Oregon,Lane,5/23/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
 Oregon,Lane,5/24/2022,EA H5N1,Red-tailed hawk,Wild bird mortality OR Dept of Fish and Wildlife
 Oregon,Umatilla,6/14/2022,EA/AM H5N1,Bald eagle,Wild bird mortality OR Dept of Fish and Wildlife
-Oregon,Harney,6/16/2022,EA H5N1,Great horned owl,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Harney,6/16/2022,EA/AM H5N1,Great horned owl,Wild bird mortality OR Dept of Fish and Wildlife
 Oregon,Marion,6/16/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
-Oregon,Marion,6/16/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Marion,6/16/2022,EA/AM H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
 Oregon,Union,6/29/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
 Pennsylvania,Chester,5/17/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
 Pennsylvania,Franklin,5/31/2022,EA H5N1,Canada goose,Wild bird mortality PA Game Commission
-Pennsylvania,Bucks County,5/31/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
+Pennsylvania,Bucks,5/31/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
 Pennsylvania,Lancaster,5/31/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
 Pennsylvania,Lancaster,5/31/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
 Pennsylvania,Lancaster,5/31/2022,EA H5N1,Turkey vulture,Wild bird mortality PA Game Commission
@@ -1743,13 +1743,13 @@ Pennsylvania,Franklin,5/31/2022,EA H5N1,Canada goose,Wild bird mortality PA Game
 Pennsylvania,Franklin,5/31/2022,EA H5N1,Canada goose,Wild bird mortality PA Game Commission
 Pennsylvania,Montgomery,6/9/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
 Pennsylvania,Montgomery,6/9/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
-Pennsylvania,Dauphin,6/16/2022,EA H5N1,Black vulture,Wild bird mortality PA Game Commission
-Pennsylvania,Dauphin,6/16/2022,EA H5N1,Black vulture,Wild bird mortality PA Game Commission
-Pennsylvania,Dauphin,6/16/2022,EA H5N1,Black vulture,Wild bird mortality PA Game Commission
-Pennsylvania,Delaware,6/21/2022,EA H5N1,Black vulture,Wild bird mortality PA Game Commission
-Pennsylvania,Crawford,6/21/2022,EA H5N1,Red-tailed hawk,Wild bird mortality PA Game Commission
-Utah,Salt,5/19/2022,EA H5N1,Mallard,Wild bird mortality Utah DWR
-Utah,Salt,5/20/2022,EA H5N1,Owl (unidentified),Wild bird mortality Utah DWR
+Pennsylvania,Dauphin,6/16/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
+Pennsylvania,Dauphin,6/16/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
+Pennsylvania,Dauphin,6/16/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
+Pennsylvania,Delaware,6/21/2022,EA/AM H5N1,Black vulture,Wild bird mortality PA Game Commission
+Pennsylvania,Crawford,6/21/2022,EA/AM H5N1,Red-tailed hawk,Wild bird mortality PA Game Commission
+Utah,Salt Lake,5/19/2022,EA H5N1,Mallard,Wild bird mortality Utah DWR
+Utah,Salt Lake,5/20/2022,EA H5N1,Owl (unidentified),Wild bird mortality Utah DWR
 Utah,Carbon,5/20/2022,EA H5N1,American white pelican,Wild bird mortality Utah DWR
 Utah,Carbon,5/20/2022,EA/AM H5N1,American white pelican,Wild bird mortality Utah DWR
 Utah,Carbon,5/24/2022,EA/AM H5N1,Canada goose,Wild bird mortality Utah DWR
@@ -1798,9 +1798,30 @@ Washington,Pierce,6/22/2022,EA H5N1,Great horned owl,Wild bird mortality WA Dept
 Washington,Yakima,6/24/2022,EA H5N1,Red-tailed hawk,Wild bird mortality WA Dept of Fish and Wildlife
 Washington,Yakima,6/24/2022,EA H5N1,Red-tailed hawk,Wild bird mortality WA Dept of Fish and Wildlife
 Washington,Yakima,6/24/2022,EA H5N1,Red-tailed hawk,Wild bird mortality WA Dept of Fish and Wildlife
-Michigan,Muskegon,6/17/2022,EA H5N1,Double-crested cormorant,Wild bird mortality Michigan DNR
-Michigan,Midland,6/17/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Ottawa,6/17/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Saginaw,6/17/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
-Michigan,Saginaw,6/17/2022,EA H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Muskegon,6/17/2022,EA/AM H5N1,Double-crested cormorant,Wild bird mortality Michigan DNR
+Michigan,Midland,6/17/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Ottawa,6/17/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Saginaw,6/17/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
+Michigan,Saginaw,6/17/2022,EA/AM H5N1,Bald eagle,Wild bird mortality Michigan DNR
 Michigan,Wayne,6/17/2022,EA H5N1,Common loon,Wild bird mortality Michigan DNR
+Wisconsin,Door,6/24/2022,EA H5N1,Double-crested cormorant,Wild bird mortality USGS/FWS (2)
+Wisconsin,Door,6/24/2022,EA H5N1,Double-crested cormorant,Wild bird mortality USGS/FWS (2)
+North Dakota,Stutsman,6/29/2022,EA H5N1,Eared grebe,Wild bird mortality NDGF/USFWS/USGS (19)
+North Dakota,Stutsman,6/29/2022,EA H5N1,Eared grebe,Wild bird mortality NDGF/USFWS/USGS (19)
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/6/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Michigan,Grand Traverse,7/11/2022,EA H5N1,Bald eagle,Wild bird mortality
+Oregon,Multnomah,7/7/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Multnomah,7/7/2022,EA H5N1,Great blue heron,Wild bird mortality OR Dept of Fish and Wildlife
