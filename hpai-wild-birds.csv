@@ -1824,7 +1824,7 @@ Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
 Florida,Brevard,7/11/2022,EA H5N1,Black vulture,Wild bird mortality
 Michigan,Grand Traverse,7/11/2022,EA H5N1,Bald eagle,Wild bird mortality
 Oregon,Multnomah,7/7/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
-Oregon,Multnomah,7/7/2022,EA H5N1,Great blue heron,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Multnomah,7/7/2022,EA/AM H5N1,Great blue heron,Wild bird mortality OR Dept of Fish and Wildlife
 California,Glenn,7/14/2022,EA/AM H5N1,Canada goose,Wild bird mortality USFWS/USGS (2)
 California,Colusa,7/14/2022,EA/AM H5N1,Canada goose,Wild bird mortality USFWS/USGS (2)
 California,Colusa,7/14/2022,EA/AM H5N1,American white pelican,Wild bird mortality USFWS/USGS (2)
@@ -2043,3 +2043,63 @@ California,Placer,8/5/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (
 California,Butte,8/5/2022,EA H5N1,American white pelican,Wild bird mortality CDFW/CAHFS (34)
 California,Sacramento,8/5/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,Plumas,8/5/2022,EA H5N1,American white pelican,Wild bird mortality CDFW/CAHFS (34)
+Wisconsin,La Crosse,8/5/2022,EA H5N1,Mallard,Live bird NWDP
+Alaska,Matanuska-Susitna,8/8/2022,EA H5N1,Mallard,Live bird NWDP
+New Jersey,Sussex,8/9/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
+New Jersey,Sussex,8/9/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
+New Jersey,Sussex,8/9/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
+New Jersey,Sussex,8/9/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
+New Jersey,Sussex,8/9/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
+Nevada,Douglas,8/3/2022,EA H5N1,Great horned owl,Wild bird mortality NV DOW
+California,Sonoma,8/9/2022,EA H5N1,Turkey vulture,Wild bird mortality CDFW/CAHFS (34)
+California,Sonoma,8/9/2022,EA H5N1,Turkey vulture,Wild bird mortality CDFW/CAHFS (34)
+California,Sonoma,8/9/2022,EA H5N1,Turkey vulture,Wild bird mortality CDFW/CAHFS (34)
+California,Mendocino,8/11/2022,EA H5N1,Wood duck,Wild bird mortality CDFW/CAHFS (34)
+California,Santa Clara,8/11/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Stanislaus,8/11/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Stanislaus,8/11/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Stanislaus,8/11/2022,EA H5N1,Muscovy duck,Wild bird mortality CDFW/CAHFS (34)
+California,Sacramento,8/15/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+Alaska,Kenai Peninsula,8/5/2022,EA H5N1,Tree swallow,Wild bird mortality USFWS/ADFG
+Alaska,North Slope,8/11/2022,EA H5N1,Glaucous gull,Wild bird mortality USFWS/ADFG
+Florida,Orange,8/8/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/11/2022,EA H5N1,Black vulture,Wild bird mortality FFWCC
+Florida,Orange,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/11/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Brevard,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Mallard,Wild bird mortality
+Florida,Brevard,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Seminole,8/15/2022,EA H5N1,Black vulture,Wild bird mortality FFWCC
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Florida,Orange,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Washington,Whitman,8/3/2022,EA H5N1,Turkey vulture,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Whitman,8/3/2022,EA H5N1,Turkey vulture,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Whitman,8/3/2022,EA H5N1,Turkey vulture,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,King,8/3/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Clallam,8/11/2022,EA H5N1,Bald eagle,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Jefferson,8/11/2022,EA H5N1,Bald eagle,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Kitsap,8/11/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Kitsap,8/11/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Benton,8/11/2022,EA H5N1,Caspian tern,Wild bird mortality WA Dept of Fish and Wildlife
+Washington,Benton,8/11/2022,EA H5N1,Caspian tern,Wild bird mortality WA Dept of Fish and Wildlife
+Florida,Broward,7/29/2022,EA H5N1,Crested caracara,Wild bird mortality USGS
