@@ -2013,9 +2013,9 @@ New Hampshire,Rockingham,7/7/2022,EA H5N1,Great black-backed gull,Wild bird mort
 New Hampshire,Rockingham,7/7/2022,EA H5N1,Common eider,Wild bird mortality NWDP
 New Hampshire,Rockingham,7/7/2022,EA H5N1,Great black-backed gull,Wild bird mortality NWDP
 New Hampshire,Grafton,7/7/2022,EA H5N1,Herring gull,Wild bird mortality NWDP
-California,Sonoma,7/28/2022,EA H5N1,American white pelican,Wild bird mortality NWDP
-California,Sonoma,7/28/2022,EA H5N1,Wood duck,Wild bird mortality NWDP
-California,Sonoma,7/28/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
+California,Glenn,7/28/2022,EA H5N1,American white pelican,Wild bird mortality NWDP
+California,Glenn,7/28/2022,EA H5N1,Wood duck,Wild bird mortality NWDP
+California,Glenn,7/28/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 California,Sonoma,7/21/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,Sonoma,7/21/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,Sonoma,7/28/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
@@ -2038,7 +2038,7 @@ Massachusetts,Plymouth,7/29/2022,EA H5N1,Great black-backed gull,Wild bird morta
 Minnesota,Marshall,7/29/2022,EA H5N1,American white pelican,Wild bird mortality USFWS/USGS (2)
 Colorado,Montezuma,6/16/2022,EA/AM H5N1,Goose (unidentified),Wild bird mortality CO Parks & Wildlife
 Colorado,Mesa,8/3/2022,EA H5N1,Wood duck,Wild bird mortality CO Parks & Wildlife
-Oregon,Harney,8/5/2022,EA H5N1,American wigeon,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Harney,8/5/2022,EA H5N1,American wigeon,Live bird OR Dept of Fish and Wildlife
 California,Placer,8/5/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,Butte,8/5/2022,EA H5N1,American white pelican,Wild bird mortality CDFW/CAHFS (34)
 California,Sacramento,8/5/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
@@ -2103,3 +2103,15 @@ Washington,Kitsap,8/11/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of 
 Washington,Benton,8/11/2022,EA H5N1,Caspian tern,Wild bird mortality WA Dept of Fish and Wildlife
 Washington,Benton,8/11/2022,EA H5N1,Caspian tern,Wild bird mortality WA Dept of Fish and Wildlife
 Florida,Broward,7/29/2022,EA H5N1,Crested caracara,Wild bird mortality USGS
+Florida,Brevard,8/15/2022,EA H5N1,Black vulture,Wild bird mortality
+Oregon,Multnomah,8/18/2022,EA H5N1,American white pelican,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Multnomah,8/18/2022,EA H5N1,American white pelican,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Washington,8/18/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Washington,8/18/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Multnomah,8/18/2022,EA H5N1,Red-tailed hawk,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Multnomah,8/18/2022,EA H5N1,Bald eagle,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Washington,8/18/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Washington,8/18/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Crook,8/18/2022,EA H5N1,American white pelican,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Crook,8/18/2022,EA H5N1,Canada goose,Wild bird mortality OR Dept of Fish and Wildlife
+Oregon,Crook,8/18/2022,EA H5N1,Mallard,Wild bird mortality OR Dept of Fish and Wildlife
