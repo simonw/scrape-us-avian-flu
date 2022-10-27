@@ -1,6 +1,6 @@
 ﻿State,County,Date Detected,HPAI Strain,Type of Wild Bird,Sampling Source
 South Carolina,Colleton,1/13/2022,EA H5N1,American wigeon,Hunter harvest NWDP
-South Carolina,Colleton,1/13/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/13/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 North Carolina,Hyde,1/16/2022,EA H5N1,Northern shoveler,Hunter harvest NWDP
 North Carolina,Hyde,1/20/2022,EA H5N1,American wigeon,Hunter harvest NWDP
 North Carolina,Hyde,1/20/2022,EA H5,Gadwall,Hunter harvest NWDP
@@ -63,13 +63,13 @@ South Carolina,Colleton,1/26/2022,EA H5,American wigeon,Hunter harvest NWDP
 South Carolina,Colleton,1/26/2022,EA H5,American wigeon,Hunter harvest NWDP
 South Carolina,Colleton,1/26/2022,EA H5,American wigeon,Hunter harvest NWDP
 South Carolina,Colleton,1/26/2022,EA H5,Northern shoveler,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged Teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
 North Carolina,Bladen,1/26/2022,EA H5N1,Gadwall,Hunter harvest NWDP
 Virginia,Henrico,1/26/2022,EA H5,American green-winged teal,Hunter harvest NWDP
 Virginia,Henrico,1/26/2022,EA H5,Mallard,Hunter harvest NWDP
@@ -78,7 +78,7 @@ North Carolina,Hyde,1/16/2022,EA H5,Northern shoveler,Hunter harvest NWDP
 North Carolina,Hyde,1/16/2022,EA H5,Gadwall,Hunter harvest NWDP
 North Carolina,Beaufort,1/26/2022,EA H5,American wigeon,Hunter harvest NWDP
 North Carolina,Beaufort,1/26/2022,EA H5,American wigeon,Hunter harvest NWDP
-South Carolina,Colleton,1/26/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
+South Carolina,Colleton,1/26/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
 North Carolina,Pamlico,2/1/2022,EA H5N1,Gadwall,Hunter harvest NWDP
 North Carolina,Pamlico,2/1/2022,EA H5N1,Gadwall,Hunter harvest NWDP
 North Carolina,Pamlico,2/1/2022,EA H5,Wood duck,Hunter harvest NWDP
@@ -87,8 +87,8 @@ North Carolina,Beaufort,2/1/2022,EA H5N1,American green-winged teal,Hunter harve
 North Carolina,Beaufort,2/1/2022,EA H5N1,American wigeon,Hunter harvest NWDP
 North Carolina,Beaufort,2/1/2022,EA H5N1,American wigeon,Hunter harvest NWDP
 Virginia,Virginia Beach,2/1/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Florida,Palm Beach,2/1/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
-Florida,Palm Beach,2/1/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
+Florida,Palm Beach,2/1/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+Florida,Palm Beach,2/1/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
 Maryland,Kent,2/2/2022,EA H5N1,Lesser scaup,Live bird USGS (1)
 New Hampshire,Rockingham,2/9/2022,EA H5,Mallard,Live bird NWDP
 New Hampshire,Rockingham,2/9/2022,EA H5,Mallard,Live bird NWDP
@@ -2273,18 +2273,18 @@ Utah,Weber,9/8/2022,EA H5N1,Canada goose,Wild bird mortality Utah DWR
 Utah,Weber,9/8/2022,EA H5N1,Canada goose,Wild bird mortality Utah DWR
 Utah,Weber,9/8/2022,EA H5N1,Canada goose,Wild bird mortality Utah DWR
 Utah,Weber,9/8/2022,EA H5N1,Canada goose,Wild bird mortality Utah DWR
-Utah,Weber,9/8/2022,EA H5N1,Green winged teal,Wild bird mortality Utah DWR
+Utah,Weber,9/8/2022,EA H5N1,American green-winged teal,Wild bird mortality Utah DWR
 Utah,Weber,9/8/2022,EA H5N1,Turkey vulture,Wild bird mortality Utah DWR
 Alaska,Kusilvak,9/13/2022,EA H5N1,Mallard,Live  bird NWDP
 Alaska,Kusilvak,9/13/2022,EA H5N1,Northern pintail,Live  bird NWDP
 Alaska,Kusilvak,9/13/2022,EA H5N1,Northern pintail,Live  bird NWDP
 Alaska,Kusilvak,9/13/2022,EA H5N1,Northern pintail,Live  bird NWDP
-North Dakota,Dunn,9/13/2022,EA H5N1,Blue-winged teal,Live  bird NWDP
+North Dakota,Dunn,9/13/2022,EA H5N1,American blue-winged teal,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,American wigeon,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
-North Dakota,Dunn,9/13/2022,EA H5N1,Blue-winged teal,Live  bird NWDP
-North Dakota,Dunn,9/13/2022,EA H5N1,Blue-winged teal,Live  bird NWDP
+North Dakota,Dunn,9/13/2022,EA H5N1,American blue-winged teal,Live  bird NWDP
+North Dakota,Dunn,9/13/2022,EA H5N1,American blue-winged teal,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Mallard,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Mallard,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
@@ -2295,9 +2295,9 @@ North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Mallard,Wild bird mortality NWDP
-North Dakota,Dunn,9/13/2022,EA H5N1,Blue-winged teal,Wild bird mortality NWDP
+North Dakota,Dunn,9/13/2022,EA H5N1,American blue-winged teal,Wild bird mortality NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Wild bird mortality NWDP
-North Dakota,Dunn,9/13/2022,EA H5N1,Blue-winged teal,Live  bird NWDP
+North Dakota,Dunn,9/13/2022,EA H5N1,American blue-winged teal,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Mallard,Live  bird NWDP
 North Dakota,Dunn,9/13/2022,EA H5N1,Gadwall,Live  bird NWDP
 South Carolina,Lexington,9/8/2022,EA H5N1,Black vulture,Wild bird mortality NWDP
@@ -2405,14 +2405,14 @@ Vermont,Chittenden,9/13/2022,EA H5N1,American black duck,Live bird NWDP
 Wisconsin,Waukesha,9/13/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 Wisconsin,Waukesha,9/13/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 Wisconsin,Waukesha,9/13/2022,EA H5N1,Mallard,Wild bird mortality NWDP
-North Dakota,Dunn,9/15/2022,EA H5N1,Blue-winged teal,Live bird NWDP
-North Dakota,Dunn,9/15/2022,EA H5N1,Blue-winged teal,Live bird NWDP
-North Dakota,Dunn,9/15/2022,EA H5N1,Blue-winged teal,Live bird NWDP
-North Dakota,Dunn,9/15/2022,EA H5N1,Blue-winged teal,Live bird NWDP
-North Dakota,Dunn,9/15/2022,EA H5N1,Blue-winged teal,Live bird NWDP
+North Dakota,Dunn,9/15/2022,EA H5N1,American blue-winged teal,Live bird NWDP
+North Dakota,Dunn,9/15/2022,EA H5N1,American blue-winged teal,Live bird NWDP
+North Dakota,Dunn,9/15/2022,EA H5N1,American blue-winged teal,Live bird NWDP
+North Dakota,Dunn,9/15/2022,EA H5N1,American blue-winged teal,Live bird NWDP
+North Dakota,Dunn,9/15/2022,EA H5N1,American blue-winged teal,Live bird NWDP
 Iowa,Woodbury,9/15/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Iowa,Woodbury,9/15/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Iowa,Woodbury,9/15/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Iowa,Woodbury,9/15/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Iowa,Woodbury,9/15/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 North Dakota,Dunn,9/15/2022,EA H5N1,Gadwall,Live bird NWDP
 North Dakota,Dunn,9/15/2022,EA H5N1,Gadwall,Live bird NWDP
 North Dakota,Dunn,9/15/2022,EA H5N1,Gadwall,Live bird NWDP
@@ -2452,9 +2452,9 @@ Washington,Whatcom,9/16/2022,EA H5N1,Mallard,Live bird NWDP
 Washington,Whatcom,9/16/2022,EA H5N1,Canada goose,Live bird NWDP
 Washington,Whatcom,9/16/2022,EA H5N1,Mallard,Live bird NWDP
 Washington,Whatcom,9/16/2022,EA H5N1,Mallard,Live bird NWDP
-Mississippi,Issaquena,9/16/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Mississippi,Issaquena,9/16/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Mississippi,Issaquena,9/16/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/16/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/16/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/16/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 California,Alameda,9/16/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 California,Alameda,9/16/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 California,Alameda,9/16/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
@@ -2491,64 +2491,64 @@ New Hampshire,Merrimack,9/15/2022,EA H5N1,Mallard,Live bird NWDP
 New Hampshire,Merrimack,9/15/2022,EA H5N1,Mallard,Live bird NWDP
 New Hampshire,Hillsborough,9/15/2022,EA H5N1,Mallard,Live bird NWDP
 North Dakota,Kidder,9/21/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
-Mississippi,Issaquena,9/21/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Mississippi,Issaquena,9/21/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Mississippi,Issaquena,9/21/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Mississippi,Issaquena,9/21/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/21/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/21/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/21/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Mississippi,Issaquena,9/21/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Oklahoma,Tillman,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Oklahoma,Tillman,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
 Wisconsin,Green Lake,9/23/2022,EA H5,American green-winged teal,Hunter harvest NWDP
-Illinois,Madison,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Madison,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Illinois,Madison,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Madison,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Wisconsin,Waukesha,9/23/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Illinois,Fayette,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Illinois,Fayette,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Illinois,Fayette,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 New York,Yates,9/23/2022,EA H5N1,Mallard,Live bird NWDP
 New York,Yates,9/23/2022,EA H5N1,Mallard,Live bird NWDP
 Indiana,Jasper,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
@@ -2576,12 +2576,12 @@ New York,Oneida,9/23/2022,EA H5N1,Mallard,Live bird NWDP
 New York,Oneida,9/23/2022,EA H5N1,Mallard,Live bird NWDP
 New York,Oneida,9/23/2022,EA H5N1,Mallard,Live bird NWDP
 New York,Oneida,9/23/2022,EA H5N1,Mallard,Live bird NWDP
-Indiana,Greene,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Indiana,Greene,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Indiana,Greene,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Indiana,Greene,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Indiana,Greene,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
-Indiana,Greene,9/23/2022,EA H5,Blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
+Indiana,Greene,9/23/2022,EA H5,American blue-winged teal,Hunter harvest NWDP
 Indiana,Greene,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
 Indiana,Greene,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
 Indiana,Greene,9/23/2022,EA H5N1,American green-winged teal,Hunter harvest NWDP
@@ -2593,7 +2593,7 @@ Minnesota,Nicollet,9/13/2022,EA H5N1,Canada goose,Wild bird mortality MN DNR
 Minnesota,Nicollet,9/13/2022,EA H5N1,Canada goose,Wild bird mortality MN DNR
 Minnesota,Nicollet,9/13/2022,EA H5N1,American white pelican,Wild bird mortality MN DNR
 California,Napa,9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
-California,"San Francisco, City and  of",9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,San Francisco,9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,San Francisco,9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,San Francisco,9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
 California,San Francisco,9/16/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
@@ -2637,7 +2637,7 @@ Utah,Salt Lake,9/21/2022,EA H5N1,Turkey vulture,Wild bird mortality Utah DWR
 Utah,Weber,9/21/2022,EA H5N1,Goose (unidentified),Wild bird mortality Utah DWR
 Utah,Weber,9/21/2022,EA H5N1,Goose (unidentified),Wild bird mortality Utah DWR
 Washington,San Juan,9/19/2022,EA H5N1,Canada goose,Wild bird mortality WA Dept of Fish and Wildlife
-Wyoming,Fremont,9/20/2022,EA H5N1,Blue-winged teal,Wild bird mortality WY Game and Fish Department
+Wyoming,Fremont,9/20/2022,EA H5N1,American blue-winged teal,Wild bird mortality WY Game and Fish Department
 Wyoming,Johnson,9/20/2022,EA H5N1,Great horned owl,Wild bird mortality WY Game and Fish Department
 Indiana,Lake,9/2/2022,EA H5N1,Canada goose,Wild bird mortality IN DNR
 Maine,Hancock,8/15/2022,EA H5N1,Canada goose,Wild bird mortality Tufts University
@@ -2685,7 +2685,7 @@ Massachusetts,Essex,9/30/2022,EA H5N1,Canada goose,Wild bird mortality NWDP
 Vermont,Addison,9/20/2022,EA H5N1,Wood duck,Live bird NWDP
 Nevada,Churchill,9/30/2022,EA H5,Mallard,Live bird NWDP
 Vermont,Addison,9/20/2022,EA H5N1,Wood duck,Live bird NWDP
-Mississippi,Washington,9/30/2022,EA H5N1,Blue-winged teal,Hunter harvest NWDP
+Mississippi,Washington,9/30/2022,EA H5N1,American blue-winged teal,Hunter harvest NWDP
 Vermont,Addison,9/20/2022,EA H5N1,Wood duck,Live bird NWDP
 Vermont,Addison,9/20/2022,EA H5N1,Wood duck,Live bird NWDP
 Vermont,Addison,9/20/2022,EA H5N1,Wood duck,Live bird NWDP
@@ -2845,15 +2845,15 @@ Minnesota,Marshall,9/28/2022,EA H5N1,Mallard,Live bird SCWDS
 Minnesota,Marshall,9/28/2022,EA H5N1,Mallard,Live bird SCWDS
 Minnesota,Marshall,9/28/2022,EA H5N1,Mallard,Live bird SCWDS
 Minnesota,Marshall,9/28/2022,EA H5N1,Mallard,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,9/28/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,9/28/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
 Florida,Lee,9/29/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS/SCWDS (11)
 Georgia,Gwinnett,9/29/2022,EA H5N1,Black vulture,Wild bird mortality GDNR/SCWDS (12)
 Georgia,DeKalb,9/29/2022,EA H5N1,Black vulture,Wild bird mortality GDNR/SCWDS (12)
@@ -2861,58 +2861,58 @@ South Carolina,Charleston,9/29/2022,EA H5N1,Bald eagle,Wild bird mortality USFWS
 Georgia,Cherokee,9/30/2022,EA H5N1,Black vulture,Wild bird mortality GDNR/SCWDS (12)
 Virginia,Norfolk,9/23/2022,EA H5N1,Canada goose,Wild bird mortality VDWR/SCWDS (33)
 Virginia,Norfolk,9/23/2022,EA H5N1,Canada goose,Wild bird mortality VDWR/SCWDS (33)
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
-Texas,Chambers,9/23/2022,EA H5N1,Blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
+Texas,Chambers,9/23/2022,EA H5N1,American blue-winged teal,Hunter harvest SCWDS
 Minnesota,Marshall,10/3/2022,EA H5N1,Mallard,Live bird SCWDS
 Minnesota,Marshall,10/3/2022,EA H5N1,Mallard,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
-Minnesota,Marshall,10/3/2022,EA H5N1,Blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
+Minnesota,Marshall,10/3/2022,EA H5N1,American blue-winged teal,Live bird SCWDS
 Montana,Ravalli,9/29/2022,EA H5N1,Trumpeter swan,Wild bird mortality MT FWP/USGS (27)
 Nevada,Washoe,9/28/2022,EA H5N1,Canada goose,Wild bird mortality NV DOW
 Nevada,Washoe,9/28/2022,EA H5N1,Mallard,Wild bird mortality NV DOW
@@ -3071,3 +3071,55 @@ Florida,Brevard,10/13/2022,EA H5,White ibis,Wild bird mortality
 Florida,Brevard,10/13/2022,EA H5,Ruddy turnstone,Wild bird mortality
 Florida,Brevard,10/13/2022,EA H5,Great egret,Wild bird mortality
 Florida,Brevard,10/13/2022,EA H5,Fish crow,Wild bird mortality
+California,Alameda,10/19/2022,EA H5N1,Turkey vulture,Wild bird mortality CDFW/CAHFS (34)
+California,San Benito,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Marin,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,El Dorado,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Orange,10/19/2022,EA H5N1,Black-crowned night heron,Wild bird mortality CDFW/CAHFS (34)
+California,Orange,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Orange,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Orange,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Los Angeles,10/19/2022,EA H5N1,Canada goose,Wild bird mortality CDFW/CAHFS (34)
+California,Napa,10/19/2022,EA H5N1,Peregrine falcon,Wild bird mortality CDFW/CAHFS (34)
+Colorado,Larimer,10/19/2022,EA H5,American white pelican,Wild bird mortality CO Parks & Wildlife
+Florida,Brevard,10/13/2022,EA H5,Black vulture,Wild bird mortality
+Florida,Brevard,10/13/2022,EA H5,Black vulture,Wild bird mortality
+Florida,Brevard,10/13/2022,EA H5,Muscovy duck,Wild bird mortality
+Florida,Brevard,10/13/2022,EA H5,Mallard,Wild bird mortality
+Florida,Brevard,10/13/2022,EA H5,Great egret,Wild bird mortality
+Florida,Palm Beach,10/19/2022,EA H5N1,American wood stork,Wild bird mortality
+Florida,Osceola,10/19/2022,EA H5N1,Muscovy duck,Wild bird mortality FFWCC
+Florida,Osceola,10/19/2022,EA H5N1,Mallard,Wild bird mortality FFWCC
+New York,Nassau,10/13/2022,EA H5,Mute swan,Wild bird mortality NYSDEC (6)
+New York,Nassau,10/13/2022,EA H5,Canada goose,Wild bird mortality NYSDEC (6)
+New York,Albany,10/13/2022,EA H5,Canada goose,Wild bird mortality NYSDEC (6)
+New York,Albany,10/13/2022,EA H5,Canada goose,Wild bird mortality NYSDEC (6)
+New York,Orange,10/19/2022,EA H5N1,Black vulture,Wild bird mortality NYSDEC (6)
+New York,Orange,10/19/2022,EA H5N1,Black vulture,Wild bird mortality NYSDEC (6)
+New York,Dutchess,10/19/2022,EA H5N1,Black vulture,Wild bird mortality NYSDEC (6)
+New York,Westchester,10/19/2022,EA H5N1,Canada goose,Wild bird mortality NYSDEC (6)
+Oregon,Marion,10/19/2022,EA H5N1,Cackling goose,Wild bird mortality OR Dept of Fish and Wildlife
+Washington,Walla Walla,10/13/2022,EA H5N1,American white pelican,Wild bird mortality WA Dept of Fish and Wildlife
+Wyoming,Albany,10/19/2022,EA H5,Red-tailed hawk,Wild bird mortality WY Game and Fish Department
+North Dakota,Logan,10/17/2022,EA H5,American green-winged teal,Hunter harvest NWDP
+Michigan,Columbia,10/17/2022,EA H5,American green-winged teal,Hunter harvest NWDP
+Wisconsin,Sheboygan,10/17/2022,EA H5,Gadwall,Hunter harvest NWDP
+Wisconsin,Calumet,10/17/2022,EA H5,Northern pintail,Hunter harvest NWDP
+Connecticut,Hartford,10/17/2022,EA H5,Turkey vulture,Wild bird mortality NWDP
+North Dakota,Stutsman,10/17/2022,EA H5,Northern shoveler,Hunter harvest NWDP
+North Dakota,Stutsman,10/17/2022,EA H5,Northern shoveler,Hunter harvest NWDP
+North Dakota,Stutsman,10/17/2022,EA H5,Northern shoveler,Hunter harvest NWDP
+North Dakota,Stutsman,10/17/2022,EA H5,American green-winged teal,Hunter harvest NWDP
+Oklahoma,Tillman,10/25/2022,EA H5,American white pelican,Wild bird mortality NWDP
+Oklahoma,Tillman,10/25/2022,EA H5,American blue-winged teal,Wild bird mortality NWDP
+Oklahoma,Tillman,10/25/2022,EA H5,American white pelican,Wild bird mortality NWDP
+Oklahoma,Tillman,10/25/2022,EA H5,American white pelican,Wild bird mortality NWDP
+Montana,Lake,10/25/2022,EA H5N1,Gadwall,Hunter harvest NWDP
+North Dakota,Logan,10/17/2022,EA H5,American green-winged teal,Hunter harvest NWDP
+North Dakota,Logan,10/17/2022,EA H5,American green-winged teal,Hunter harvest NWDP
+Alaska,North Slope,10/7/2022,EA H5N1,Common raven,Wild bird mortality USFWS/ADFG
+Alaska,North Slope,10/7/2022,EA H5N1,Common raven,Wild bird mortality USFWS/ADFG
+Alaska,North Slope,10/7/2022,EA H5N1,Eider (unidentified),Wild bird mortality USFWS/ADFG
+Alaska,Nome,10/13/2022,EA H5,Glaucous gull,Wild bird mortality USFWS/ADFG
+Montana,Ravalli,10/7/2022,EA H5N1,Great horned owl,"Wild bird mortality MT Fish, Wildlife and Parks"
+Utah,Utah,10/19/2022,EA H5,Gull (unidentified),Wild bird mortality Utah DWR
